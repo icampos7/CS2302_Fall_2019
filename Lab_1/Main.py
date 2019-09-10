@@ -22,8 +22,8 @@ def new_password(salt_name, len_string, hashed_string):
         print("ERROR: Password not possible! Not within 3 to 7 characters!")
         return "Password does not exist!"
     #This loop is used to create a new string to be compared to our hashed password.
-    for x in range (0, new_int): # For i in range of the new integer
-        index = str(x)
+    for i in range (0, new_int): # For i in range of the new integer
+        index = str(i)
         amount_string = len(index)
         #Creates a new index and digit to construct a hashed password
         new_index = zero_generator(len_string, index, amount_string)
