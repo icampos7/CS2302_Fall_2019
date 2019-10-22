@@ -3,7 +3,7 @@ Author: Carlos Fernando Castaneda
 Class : CS 2302 
 Date Modified: October 21, 2019 
 Instructor: Diego Aguirre 
-Assingment: Lab 3 Binary Trees (Part 2 of 3)
+Assingment: Lab 3 Binary Trees (Part 1 of 3)
 TA: Gerardo Barraza
 Purpose: To practice using multiple methods
 of creating Binary Trees, includong AVL and
